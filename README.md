@@ -1,4 +1,4 @@
-Awesome Source CV [![Example](https://img.shields.io/badge/Exemple-pdf-blue.svg)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)
+Awesome Source CV [![Example](https://img.shields.io/badge/Exemple-pdf-blue.svg)](https://github.com/xkyrage/LaTeX-CV_XeLaTeX_engine/blob/main/CV%20Tegar%20Ibrahim%20-%20Updated%202022.pdf)
 =================
 
 ## About
